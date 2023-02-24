@@ -1,3 +1,6 @@
 {
-    "port": "8080"
+    "prefix": "/get/",
+    "ssl": false,
+    "port": "8080",
+    "cookie_auth": "__alloy_client=human"
 }
